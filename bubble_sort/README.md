@@ -10,11 +10,6 @@ The worst case scenario is that the list is in reverse-sorted order. In order wo
 
 If you want to run every bubble sort implementation, just run the bash script: `chmod +x bubble.sh && ./bubble.sh`. However, if you only want to run a specific language, follow the instructions below. *All of the languages print the same data and use the same list of random numbers from [random.org](https://random.org).*
 
-- Python: `python3 bubble.py`
-- JavaScript: `node bubble.py`
-- C++: `g++ bubble.cpp && ./a.out`
-- Java: `java BubbleSort.java`
-
 | Language | Command |
 |----------|---------|
 | All at once (Bash only) | `chmod +x bubble.sh && ./bubble.sh` |
